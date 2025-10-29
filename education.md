@@ -1,4 +1,4 @@
-# Education
+# 🎓Education
 
 ## Bachelor
 
