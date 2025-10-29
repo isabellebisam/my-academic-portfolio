@@ -7,7 +7,7 @@
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!-- Disabled the Leap Day auto-TOC script to keep only sidebar buttons <script src="{{ '/assets/js/main.js' | relative_url }}"></script> -->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     {% include head-custom.html %}
@@ -19,7 +19,7 @@
         --yellow-accent: #ceff1c; /* Buttons and highlight bar */
         --lavender-bg: #b183ba;   /* Page background */
         --soft-pink: #d8c1dd;     /* Content area background */
-        --text-color: #1a1a1a;
+        --text-color: #000000;
       }
 
       html, body {
@@ -127,11 +127,11 @@
     <div class="wrapper">
       <nav>
         <ul class="sidebar-buttons">
-          <li><a class="button" href="{{ '/' | relative_url }}">🏠 Home</a></li>
-          <li><a class="button" href="{{ '/education/' | relative_url }}">🎓 Education</a></li>
-          <li><a class="button" href="{{ '/experience/' | relative_url }}">💼 Experience</a></li>
-          <li><a class="button" href="{{ '/projects/' | relative_url }}">🧩 Projects</a></li>
-          <li><a class="button" href="{{ '/contact/' | relative_url }}">📫 Contact</a></li>
+          <li><a class="button" href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a class="button" href="{{ '/education/' | relative_url }}">Education</a></li>
+          <li><a class="button" href="{{ '/experience/' | relative_url }}">Experience</a></li>
+          <li><a class="button" href="{{ '/projects/' | relative_url }}">Projects</a></li>
+          <li><a class="button" href="{{ '/contact/' | relative_url }}">Contact</a></li>
         </ul>
       </nav>
 
