@@ -1,1 +1,5 @@
-theme: minima
+title: Isabelle Bianca Sampaio
+description: Lawyer, IP specialist & master's student
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-leap-day
