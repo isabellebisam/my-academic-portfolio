@@ -1,4 +1,4 @@
-![Featured Image](/_assets/IB_headshot.png)
+![IB picture](/assets/IB_headshot.png)
 
 # Isabelle Bianca Sampaio, MSM
 ## Lawyer, IP Specialist & master's student
@@ -19,7 +19,7 @@ Please feel free to take a look at what I have studied, am studying, and worked 
 
 ### Contact
 
-- Email: hello@isabellebisam.com
+- Email: [hello@isabellebisam.com](mailto:hello@isabellebisam.com)
 
 ### Follow Me
 
