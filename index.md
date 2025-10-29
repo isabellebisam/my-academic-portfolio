@@ -1,12 +1,7 @@
----
-layout: default
-title: Isabelle Bianca Sampaio - Academic Portfolio
----
+![Featured Image](/_assets/IB_headshot.png)
 
-![Featured Image](/_assets/IB_headshot.jpg)
-
-# Isabelle Bianca Sampaio
-## Lawyer, IP Specialist, Grad Student
+# Isabelle Bianca Sampaio, MSM
+## Lawyer, IP Specialist & master's student
 
 ### 👩🏻‍💻About Me
 I’m passionate about understanding how **law, technology, and human creativity** intersect.  
@@ -19,8 +14,8 @@ Please feel free to take a look at what I have studied, am studying, and worked 
 
 ### Research Interests
 - IP literacy
-- creator economy policy
-- digital ethics
+- Creator economy policy
+- Digital ethics
 
 ### Contact
 
