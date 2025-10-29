@@ -1,8 +1,5 @@
 ![IB picture](/assets/IB_headshot.png)
 
-# Isabelle Bianca Sampaio, MSM
-## Lawyer, IP Specialist & master's student
-
 ### 👩🏻‍💻About Me
 I’m passionate about understanding how **law, technology, and human creativity** intersect.  
 Currently completing a **Master of Arts in Interdisciplinary Studies at the University of Central Florida (UCF)**,  
