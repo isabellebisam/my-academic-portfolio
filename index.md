@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ![IB picture](/assets/IB_headshot.png)
 
 ### 👩🏻‍💻About Me
