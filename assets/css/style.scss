@@ -19,10 +19,10 @@ html, body {
 
 header {
   background: var(--purple-bar);
-  color: #000000; /* black header text */
+  color: #dddddd; /* gray header text */
   padding: 22px 20px;
 }
-header h1, header p { color: #000000; }
+header h1, header p { color: #dddddd; }
 
 #banner {
   background: var(--yellow-accent);
