@@ -1,4 +1,7 @@
-# Projects
+---
+layout: default
+title: Projects
+---
 
 ## Project 1
 - Project Description

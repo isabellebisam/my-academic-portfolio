@@ -1,9 +1,16 @@
-# Teaching Experience
+---
+layout: default
+title: Teaching Experience
+---
 
-## Management of Organizations
+## Management of Organizations (U.S)
 - Description
-- Semester Taught
+- Semester assisted
+    *Summer 2023
+    *Summer 2025
+    *Fall 2025
 
-## Administrative Law
+## Administrative Law (Brazil)
 - Description
-- Semester Taught
+- Semester assisted
+    *Fall 2005
