@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Isabelle Bianca Sampaio, M.S.M.
 ---
 
 ![IB picture](/assets/IB_headshot.png)
