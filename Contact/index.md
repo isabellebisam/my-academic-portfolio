@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Isabelle Bianca Sampaio, M.S.M.
+permalink: /contact/
 ---
 
 # 🌐Contact
