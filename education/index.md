@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Education
+title: Isabelle Bianca Sampaio, M.S.M.
 ---
+
+# 🎓Education
 
 ## Master of Arts in Interdisciplinary Studies
 - Area: Digital Ethics & Research Methods

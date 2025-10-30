@@ -1,12 +1,19 @@
 ---
 layout: default
-title: Projects
+title: Isabelle Bianca Sampaio, M.S.M.
 ---
 
-## Project 1
+# 📚Research Projects
+
+### There are my areas of interests and, below, the projects I've been working on:
+- IP literacy
+- Creator economy policy
+- Digital ethics
+
+## IP Literacy
 - Project Description
 - Technologies Used
 
-## Project 2
+## AI Literacy
 - Project Description
 - Technologies Used

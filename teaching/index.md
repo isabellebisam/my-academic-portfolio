@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Teaching Experience
+title: Isabelle Bianca Sampaio, M.S.M.
 ---
+
+# 📖Teaching Experience
 
 ## Management of Organizations (U.S)
 - Description

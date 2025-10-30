@@ -14,17 +14,3 @@ My professional background includes **intellectual property law**, **business co
 
 Please feel free to take a look at what I have studied, am studying, and worked on so far.
 
-### 📚Research Interests
-- IP literacy
-- Creator economy policy
-- Digital ethics
-
-### 📧Contact
-
-- Email: [hello@isabellebisam.com](mailto:hello@isabellebisam.com)
-
-### 🌐Follow Me
-
-- [Instagram](https://instagram.com/isabellebisam)
-- [LinkedIn](https://linkedin.com/in/isabellebisam)
-- [GitHub](https://github.com/isabellebisam)
