@@ -44,7 +44,7 @@ Through comparative analysis of legal texts, policy documents, and creator pract
 My goal is to examine the extent to which AI regulation contributes to a deeper understanding of how emerging AI policies influence digital cultural production, offering perspectives for ethical and inclusive governance.
 
 ### Technologies Used
-- **Legal & Policy Analysis:** Zotero, Mendeley, and Excel for citation management and comparative legal mapping.
+- **Legal & Policy Analysis:** Zotero, EndNote, and Excel for citation management and comparative legal mapping.
 - **Qualitative Research:** NVivo or MAXQDA for content and thematic analysis of interviews, policy documents, and platform governance materials.
 - **Quantitative & Visualization Tools:** SPSS, R, or Python for cross-country data comparison and statistical modeling.
 - **Data Sources:** WIPO Lex, EU AI Act documentation, US Copyright Office policy statements, INPI guidelines, and national legislative portals.
