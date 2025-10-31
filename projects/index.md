@@ -5,7 +5,7 @@ title: Isabelle Bianca Sampaio, M.S.M.
 
 # 📚Research Projects
 
-### These are my areas of interests and, below, the projects I've been working on:
+### My areas of interest and current projects:
 - IP literacy
 - AI regulation
 - Digital ethics
