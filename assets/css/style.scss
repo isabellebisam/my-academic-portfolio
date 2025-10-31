@@ -98,12 +98,13 @@ pre, code {
 section ul li {
   list-style: none;
   position: relative;
-  padding-left: 1.2em;
+  padding-left: 1.4em;
 }
 
 section ul li::before {
-  content: "•"; /* bullet point */
+  content: "◆"; /* diamond */
   color: #620674; /* purple */
+  font-size: 1.3em;
   position: absolute;
   left: 0;
   font-weight: bold;
