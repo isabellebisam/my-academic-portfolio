@@ -11,7 +11,8 @@ If you’d like to talk about **research collaborations**, **IP & AI** topics, o
 ## Email
 
 - **[hello@isabellebisam.com](mailto:hello@isabellebisam.com)**
-    *I typically reply within 1–2 business days.*
+
+> *I typically reply within 1–2 business days.*
 
 ## Follow Me
 
