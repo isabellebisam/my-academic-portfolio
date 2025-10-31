@@ -15,12 +15,12 @@ title: Isabelle Bianca Sampaio, M.S.M.
 ### Project Description
 IP Literacy is a multidisciplinary research project that investigates how intellectual property (IP) literacy influences the protection practices of small creative entrepreneurs in the Amazon region, particularly in Manaus.
 The project examines the intersection between law, education, digital ethics, and innovation policy, seeking to understand how creators engage (or fail to engage) with IP systems in a context marked by cultural richness, technological transformation, and structural inequality.
-Through a mixed-methods design — combining quantitative surveys, qualitative interviews, and institutional mapping — the project aims to:
+Through a mixed-methods design, combining quantitative surveys, qualitative interviews, and institutional mapping, the project aims to:
 - identify gaps in knowledge and access to IP protection;
 - analyze the ethical, economic, and social implications of digital appropriation;
 - propose educational and policy frameworks that promote fair, informed participation in the creative economy.
 
-Ultimately, IP Literacy contributes to the development of inclusive IP education strategies and to the strengthening of the creative and cultural industries in the Amazon.
+My goal is to examine how intellectual property literacy contributes to the development of small business strategies and to the strengthening of the creative and cultural industry in the Amazon.
 
 ### Technologies Used
 - **Quantitative Analysis:** Excel, SPSS, R, or Python for statistical modeling and data visualization.
@@ -41,7 +41,7 @@ Through comparative analysis of legal texts, policy documents, and creator pract
 - analyze how transparency, legitimacy, and bias intersect in AI governance systems;
 - identify how marginalized or racialized creators navigate regulatory gaps through community norms and platform-based strategies.
 
-Ultimately, AI Regulation contributes to a deeper understanding of how emerging AI policies shape digital cultural production, offering insights for equitable governance and inclusive innovation.
+My goal is to examine the extent to which AI regulation contributes to a deeper understanding of how emerging AI policies influence digital cultural production, offering perspectives for ethical and inclusive governance.
 
 ### Technologies Used
 - **Legal & Policy Analysis:** Zotero, Mendeley, and Excel for citation management and comparative legal mapping.
