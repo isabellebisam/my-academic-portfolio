@@ -8,7 +8,7 @@ title: Isabelle Bianca Sampaio, M.S.M.
 ## Management of Organizations (U.S)
 - **Institution:** University of Central Florida
 - **Role:** Graduate Teaching Assistant-GTA
-- **Description:** MAN 3025 Management of Organizations provides students with the foundations of management in organizations, empowering them to create value and impact throughout their professional careers. *(according to the official syllabus)*
+- **Description:** MAN 3025 Management of Organizations provides students with the foundations of management in organizations, empowering them to create value and impact throughout their professional careers *(according to the official syllabus)*.
 I was responsible for grading assignments and attendance, providing student support, organizing course materials, posting announcements on Webcourses, and managing activities through the McGraw-Hill Connect platform (textbook and digital assignments).
 - **Semesters Assisted:**
     - Summer 2023

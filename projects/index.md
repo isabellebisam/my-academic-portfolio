@@ -6,19 +6,19 @@ title: Isabelle Bianca Sampaio, M.S.M.
 # 📚Research Projects
 
 ### My areas of interest and current projects:
-- IP literacy
-- AI regulation
-- Digital ethics
-- Creator economy policy
+    - IP literacy
+    - AI regulation
+    - Digital ethics
+    - Creator economy policy
 
 ## IP Literacy
 ### Project Description
 IP Literacy is a multidisciplinary research project that investigates how intellectual property (IP) literacy influences the protection practices of small creative entrepreneurs in the Amazon region, particularly in Manaus.
 The project examines the intersection between law, education, digital ethics, and innovation policy, seeking to understand how creators engage (or fail to engage) with IP systems in a context marked by cultural richness, technological transformation, and structural inequality.
 Through a mixed-methods design, combining quantitative surveys, qualitative interviews, and institutional mapping, the project aims to:
-- identify gaps in knowledge and access to IP protection;
-- analyze the ethical, economic, and social implications of digital appropriation;
-- propose educational and policy frameworks that promote fair, informed participation in the creative economy.
+    - identify gaps in knowledge and access to IP protection;
+    - analyze the ethical, economic, and social implications of digital appropriation;
+    - propose educational and policy frameworks that promote fair, informed participation in the creative economy.
 
 My goal is to examine how intellectual property literacy contributes to the development of small business strategies and to the strengthening of the creative and cultural industry in the Amazon.
 
@@ -37,9 +37,9 @@ AI Regulation is an interdisciplinary research project that explores how nationa
 The project investigates jurisdictional divergences in copyright recognition, authorship legitimacy, and transparency requirements across different contexts, such as the United States, European Union, Brazil, and Indonesia. The objective is to understand how these legal variations influence creators’ strategies, risks, and access to protection.
 Grounded in critical data studies and procedural rhetoric theory, the research examines how regulatory fragmentation functions not only as a source of legal uncertainty but also as a structural force that redistributes opportunities, reproduces inequalities, and fosters informal innovation among creators.
 Through comparative analysis of legal texts, policy documents, and creator practices, the project aims to:
-- map how generative AI regulation affects creators’ ability to claim authorship and monetize their work;
-- analyze how transparency, legitimacy, and bias intersect in AI governance systems;
-- identify how marginalized or racialized creators navigate regulatory gaps through community norms and platform-based strategies.
+    - map how generative AI regulation affects creators’ ability to claim authorship and monetize their work;
+    - analyze how transparency, legitimacy, and bias intersect in AI governance systems;
+    - identify how marginalized or racialized creators navigate regulatory gaps through community norms and platform-based strategies.
 
 My goal is to examine the extent to which AI regulation contributes to a deeper understanding of how emerging AI policies influence digital cultural production, offering perspectives for ethical and inclusive governance.
 
