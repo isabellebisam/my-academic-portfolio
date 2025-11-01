@@ -4,7 +4,7 @@ title: Isabelle Bianca Sampaio, M.S.M.
 permalink: /cv/
 ---
 
-## **EDUCATION**
+## **CURRICULUM VITAE**
 
 ### **Master of Arts in Interdisciplinary Studies,** University of Central Florida – Orlando, FL
 > - *Non-Thesis*
