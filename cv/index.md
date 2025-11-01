@@ -214,6 +214,7 @@ None to date.
 > - Monday
 > - Notion
 > - GanttProject
+> - GitHub
 
 ### **Artificial Intelligence Platforms:** 
 > - ChatGPT
