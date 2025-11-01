@@ -4,52 +4,48 @@ title: Isabelle Bianca Sampaio, M.S.M.
 permalink: /cv/
 ---
 
-**EDUCATION**
+# **EDUCATION**
 
-**Master of Arts in Interdisciplinary Studies,** University of Central Florida – Orlando, FL
-> *Non-Thesis*
-> Expected graduation date: Spring 2026
+## **Master of Arts in Interdisciplinary Studies,** University of Central Florida – Orlando, FL
+    - *Non-Thesis*
+    - Expected graduation date: Spring 2026
 
-**M.S. in Management,** University of Central Florida – Orlando, FL
-> *Non-Thesis*
-> Fall 2023
+## **M.S. in Management,** University of Central Florida – Orlando, FL
+    - *Non-Thesis*
+    - Fall 2023
 
-**LL.B. – Bachelor of Laws,** Centro Universitário Nilton Lins – Manaus-AM-Brazil
-> Spring 2003
+## **LL.B. – Bachelor of Laws,** Centro Universitário Nilton Lins – Manaus-AM-Brazil
+    - Spring 2003
 
-**TEACHING AND PROFESSIONAL EXPERIENCE**
+# **TEACHING AND PROFESSIONAL EXPERIENCE**
 
-**06/2025 - Present**
->
+### **06/2025 - Present**
 **Graduate Teaching Assistant, University of Central Florida - Orlando, FL**
-> Management of Organizations
+    - Management of Organizations
 
-**06 - 08/2023**
->
->**Graduate Teaching Assistant, University of Central Florida - Orlando, FL**
-> Management of Organizations
+### **06 - 08/2023**
+**Graduate Teaching Assistant, University of Central Florida - Orlando, FL**
+    - Management of Organizations
 
-**08/2005-02/2006**
->
+### **08/2005-02/2006**
 **Lecturer, IESB, Brasília-DF-Brazil**
-> Administrative Law
+    - Administrative Law
 
-**TEACHING INTERESTS**
-> - Business Intelligence
-> - Strategic Management
-> - Interdisciplinary Approaches to Law and Management.
+# **TEACHING INTERESTS**
+    - Business Intelligence
+    - Strategic Management
+    - Interdisciplinary Approaches to Law and Management.
 
-**RESEARCH EXPERIENCE**
+# **RESEARCH EXPERIENCE**
 
-**2025 - Present**
-
+### **2025 - Present**
 **Course Project, University of Central Florida - Orlando, FL**
-> Conducting interdisciplinary research on intellectual property literacy, digital platforms, and creative economy as part of MA in Interdisciplinary Studies.
+    - Conducting interdisciplinary research on intellectual property literacy, digital platforms, and creative economy as part of MA in Interdisciplinary Studies.
 
-**RESEARCH INTERESTS**
-> - Intellectual Property Literacy and Protection Strategies within the Creative Economy
-> - Interdisciplinary Business Research focusing on Data-Driven Decision Making
-> - Intersection of Innovation and Digital Ethics in the age of AI.
+# **RESEARCH INTERESTS**
+    - Intellectual Property Literacy and Protection Strategies within the Creative Economy
+    - Interdisciplinary Business Research focusing on Data-Driven Decision Making
+    - Intersection of Innovation and Digital Ethics in the age of AI.
 
 **PUBLICATIONS AND PRESENTATIONS**
 
