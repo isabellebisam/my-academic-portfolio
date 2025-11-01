@@ -4,68 +4,69 @@ title: Isabelle Bianca Sampaio, M.S.M.
 permalink: /cv/
 ---
 
-# **EDUCATION**
+## **EDUCATION**
 
-## **Master of Arts in Interdisciplinary Studies,** University of Central Florida – Orlando, FL
-    - *Non-Thesis*
-    - Expected graduation date: Spring 2026
+### **Master of Arts in Interdisciplinary Studies,** University of Central Florida – Orlando, FL
+> - *Non-Thesis*
+> - Expected graduation date: Spring 2026
 
-## **M.S. in Management,** University of Central Florida – Orlando, FL
-    - *Non-Thesis*
-    - Fall 2023
+### **M.S. in Management,** University of Central Florida – Orlando, FL
+> - *Non-Thesis*
+> - Fall 2023
 
-## **LL.B. – Bachelor of Laws,** Centro Universitário Nilton Lins – Manaus-AM-Brazil
-    - Spring 2003
+### **LL.B. – Bachelor of Laws,** Centro Universitário Nilton Lins – Manaus-AM-Brazil
+> - Spring 2003
 
-# **TEACHING AND PROFESSIONAL EXPERIENCE**
+## **TEACHING AND PROFESSIONAL EXPERIENCE**
 
 ### **06/2025 - Present**
 **Graduate Teaching Assistant, University of Central Florida - Orlando, FL**
-    - Management of Organizations
+> - Management of Organizations
 
 ### **06 - 08/2023**
 **Graduate Teaching Assistant, University of Central Florida - Orlando, FL**
-    - Management of Organizations
+> - Management of Organizations
 
 ### **08/2005-02/2006**
 **Lecturer, IESB, Brasília-DF-Brazil**
-    - Administrative Law
+> - Administrative Law
 
-# **TEACHING INTERESTS**
-    - Business Intelligence
-    - Strategic Management
-    - Interdisciplinary Approaches to Law and Management.
+## **TEACHING INTERESTS**
+> - Business Intelligence
+> - Strategic Management
+> - Interdisciplinary Approaches to Law and Management.
 
-# **RESEARCH EXPERIENCE**
+## **RESEARCH EXPERIENCE**
 
 ### **2025 - Present**
+
 **Course Project, University of Central Florida - Orlando, FL**
-    - Conducting interdisciplinary research on intellectual property literacy, digital platforms, and creative economy as part of MA in Interdisciplinary Studies.
+> Conducting interdisciplinary research on intellectual property literacy, digital platforms, and creative economy as part of MA in Interdisciplinary Studies.
 
-# **RESEARCH INTERESTS**
-    - Intellectual Property Literacy and Protection Strategies within the Creative Economy
-    - Interdisciplinary Business Research focusing on Data-Driven Decision Making
-    - Intersection of Innovation and Digital Ethics in the age of AI.
+## **RESEARCH INTERESTS**
+> - Intellectual Property Literacy and Protection Strategies within the Creative Economy
+> - Interdisciplinary Business Research focusing on Data-Driven Decision Making
+> - Intersection of Innovation and Digital Ethics in the age of AI.
 
-**PUBLICATIONS AND PRESENTATIONS**
+## **PUBLICATIONS AND PRESENTATIONS**
 
 None to date.
 
-**HONORS, AWARDS, GRANTS, FELLOWSHIPS, SCHOLARSHIPS**
+## **HONORS, AWARDS, GRANTS, FELLOWSHIPS, SCHOLARSHIPS**
 > - Graduate Teaching Assistantship, University of Central Florida, 2023 and 2025.
 > - Latin American and Caribbean Scholarship (LAC), 2023.
 
-**PROFESSIONAL DEVELOPMENT**
+## **PROFESSIONAL DEVELOPMENT**
 > - **Twelve-week Preparing Future Faculty program**
->   UCF- Orlando, FL. **Summer 2025**
+>   UCF- Orlando, FL. *Summer 2025*
 > - **GTA online training (Graduate Teaching Assistant)**
->   UCF- Orlando, FL. **Spring 2023**
+>   UCF- Orlando, FL. *Spring 2023*
 > - **Five-month training - Intensive Programs in English for Foreign Students**
->   UCF Global – Orlando, FL. **March 2022**
+>   UCF Global – Orlando, FL. *Spring 2022*
 
-**PROFESSIONAL CERTIFICATIONS AND LICENSES**
+## **PROFESSIONAL CERTIFICATIONS AND LICENSES**
 
-**- Intellectual Property & Legal**
+### **- Intellectual Property & Legal**
 > - **Human Subjects Research – Group 2: Social/Behavioral Research Investigators and Key Personnel** – CITI Program
 > - **Indicações Geográficas e Marcas Coletivas** – INPI Brazil – National Institute of Industrial Property
 > - **Use of Intellectual Property in Traditional Knowledge‑Based Businesses** – INPI Brazil – National Institute of Industrial Property
@@ -73,14 +74,14 @@ None to date.
 > - **Introduction to the Patent Cooperation Treaty** – World Intellectual Property Organization (WIPO)
 > - **Immigration Paralegal Certificate** – M&M Learning Center
 
-**- Project Management & Business Operations**
+### **- Project Management & Business Operations**
 > - **Project Management Foundations** – LinkedIn
 > - **Operations Management Foundations** – LinkedIn
 > - **Finance for Non‑Financial Managers** – LinkedIn
 > - **Understanding Business** – LinkedIn
 > - **Business Intelligence for Consultants** – LinkedIn
 
-**- Data, Analytics & Microsoft 365**
+### **- Data, Analytics & Microsoft 365**
 > - **Managing Data with Microsoft 365** – LinkedIn
 > - **The Non‑Technical Skills of Effective Data Scientists** – LinkedIn
 > - **Data Science and Analytics Career Paths and Certifications: First Steps** – LinkedIn
@@ -90,7 +91,7 @@ None to date.
 > - **Microsoft Office Specialist: Excel Associate (Office 2019)** – Microsoft
 > - **PowerPoint Essential Training (Office 365/Microsoft 365)** – LinkedIn
 
-**- Communication, Soft Skills & Leadership**
+### **- Communication, Soft Skills & Leadership**
 > - **Critical Thinking** – LinkedIn
 > - **Women in STEM** – LinkedIn
 > - **Adaptable Professional: Emotional Intelligence, Finance and Leadership** – Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
@@ -98,21 +99,21 @@ None to date.
 > - **Professional, Emotional and Technological Competencies for Times of Change** – Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 > - **Integrating the 2030 Agenda for the Sustainable Development Goals** – United Nations Development Programme (UNDP Brazil)
 
-**PROFESSIONAL AFFILIATION**
+### **PROFESSIONAL AFFILIATION**
 > - Brazilian Bar Association – Amazonas Section (OAB/AM)
 > - Strategic and Competitive Intelligence Professionals (SCIP)
 > - International Trademark Association (INTA)
 > - Association for the Advancement of Artificial Intelligence
 
-**SERVICE SUMMARY**
+## **SERVICE SUMMARY**
 
 None to date.
 
-**COURSES TAKEN**
+## **COURSES TAKEN**
 
-**Graduate Courses**
+## **Graduate Courses**
 
-**- M.A. Interdisciplinary Studies (in progress; coursework completed through Fall 2025)**
+### **- M.A. Interdisciplinary Studies (in progress; coursework completed through Fall 2025)**
 
 > **Ways of Knowing:** This course explores diverse epistemological frameworks and how knowledge is constructed across disciplines. It fits into the curriculum by providing graduate students with a foundation for interdisciplinary inquiry and critical thinking about research paradigms. Major concepts include positivism, constructivism, critical theory, and the application of multiple ways of knowing to academic and professional contexts.
 >
@@ -130,7 +131,7 @@ None to date.
 >
 > **Qualitative Research Methods (in progress):** This course encompasses the examination of qualitative research methods, how and when they are employed, and processes of analyzing field observation, oral histories, and in-depth interviews.
 
-**- M.S. in Management**
+### **- M.S. in Management**
 
 > **Business Foundations and Career Development:** This course introduces the essential principles of management, marketing, accounting, and operations that form the foundation of graduate-level business study. It fits into the program as a bridge for students transitioning from non‑business backgrounds, equipping them with baseline knowledge for advanced coursework. Major concepts include organizational structures, functional areas of business, and career planning strategies aligned with individual strengths and market needs.
 >
@@ -152,7 +153,7 @@ None to date.
 >
 > **Applied Field Project:** This course involves a hands‑on consulting or research project where students apply classroom learning to solve an actual organizational problem. It fits into the curriculum as a culminating experience that bridges academic theory with practical execution. Major concepts include project scoping, data collection and analysis, stakeholder presentations, and implementation planning.
 
-**- Undergraduate Courses**
+### **- Undergraduate Courses**
 
 > Legal Communication and Exp. I  
 > Civil Law I  
@@ -198,32 +199,32 @@ None to date.
 > Legal Medicine  
 > Forensic Practice III
 
-**COMPUTER SKILLS**
+## **COMPUTER SKILLS**
 
-**Application Software:**
-    - SPSS
-    - Microsoft Office 365
-    - Google Workspace
-    - Adobe Creative
-    - Canva
-    - MindMeister
-    - Trello
-    - Monday
-    - Notion
-    - GanttProject
+### **Application Software:**
+> - SPSS
+> - Microsoft Office 365
+> - Google Workspace
+> - Adobe Creative
+> - Canva
+> - MindMeister
+> - Trello
+> - Monday
+> - Notion
+> - GanttProject
 
-**Artificial Intelligence Platforms:** 
-    - ChatGPT
-    - Claude
-    - DeepSeek
-    - Gemini
-    - Copilot
-    - MidJourney, etc.
+### **Artificial Intelligence Platforms:** 
+> - ChatGPT
+> - Claude
+> - DeepSeek
+> - Gemini
+> - Copilot
+> - MidJourney, etc.
 
-**LANGUAGES**
-    - Fluent in English (professional) and Portuguese (native)
-    - Basic comprehension in Spanish and French
+## **LANGUAGES**
+> - Fluent in English (professional) and Portuguese (native)
+> - Basic comprehension in Spanish and French
 
-**REFERENCES**
+## **REFERENCES**
 
 Available upon request.
