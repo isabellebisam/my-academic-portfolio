@@ -1,14 +1,4 @@
----
-layout: default
-title: Isabelle Bianca Sampaio, M.S.M.
-permalink: /cv/
----
-
-**ISABELLE SAMPAIO**
-
-Orlando, FL – (407) 999-9999
-
-<isabelle.sampaio@ucf.edu>
+**ISABELLE BIANCA SAMPAIO**
 
 **EDUCATION**
 
