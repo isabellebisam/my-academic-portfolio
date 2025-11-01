@@ -3,7 +3,8 @@ layout: default
 title: Isabelle Bianca Sampaio, M.S.M.
 permalink: /cv/
 ---
-# 📜**CURRICULUM VITAE**
+# 📜**Curriculum Vitae**
+
 
 ## **EDUCATION**
 
