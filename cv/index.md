@@ -100,7 +100,7 @@ None to date.
 > - **Professional, Emotional and Technological Competencies for Times of Change** – Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 > - **Integrating the 2030 Agenda for the Sustainable Development Goals** – United Nations Development Programme (UNDP Brazil)
 
-### **PROFESSIONAL AFFILIATION**
+## **PROFESSIONAL AFFILIATION**
 > - Brazilian Bar Association – Amazonas Section (OAB/AM)
 > - Strategic and Competitive Intelligence Professionals (SCIP)
 > - International Trademark Association (INTA)
