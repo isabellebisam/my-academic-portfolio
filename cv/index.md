@@ -7,32 +7,32 @@ permalink: /cv/
 **EDUCATION**
 
 **Master of Arts in Interdisciplinary Studies,** University of Central Florida – Orlando, FL
-> - *Non-Thesis*
-> - Expected graduation date: Spring 2026
+> *Non-Thesis*
+> Expected graduation date: Spring 2026
 
 **M.S. in Management,** University of Central Florida – Orlando, FL
-> - *Non-Thesis*
-> - Fall 2023
+> *Non-Thesis*
+> Fall 2023
 
 **LL.B. – Bachelor of Laws,** Centro Universitário Nilton Lins – Manaus-AM-Brazil
-> - Spring 2003
+> Spring 2003
 
 **TEACHING AND PROFESSIONAL EXPERIENCE**
 
 **06/2025 - Present**
 >
 **Graduate Teaching Assistant, University of Central Florida - Orlando, FL**
-> - Management of Organizations
->
+> Management of Organizations
+
 **06 - 08/2023**
 >
 >**Graduate Teaching Assistant, University of Central Florida - Orlando, FL**
-> - Management of Organizations
->
+> Management of Organizations
+
 **08/2005-02/2006**
 >
 **Lecturer, IESB, Brasília-DF-Brazil**
-> - Administrative Law
+> Administrative Law
 
 **TEACHING INTERESTS**
 > - Business Intelligence
